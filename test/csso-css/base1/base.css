@@ -1,0 +1,16 @@
+.image1, .image2 {
+    border: 3px solid #000
+}
+
+.image1 {
+    margin: 10px;
+    background: url(../../image/shop.png?__spriter) 0 0;
+    width: 44px;
+    height: 44px
+}
+
+.image2 {
+    width: 50px;
+    background: url(../../image/bag.png?__spriter) 0 0;
+    height: 50px
+}
