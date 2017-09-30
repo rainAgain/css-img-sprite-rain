@@ -1,6 +1,6 @@
 {
   "name": "css-img-sprite-rain",
-  "version": "1.0.13",
+  "version": "1.0.0",
   "description": "input css file,get new file and sprite image",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "css",
     "sprite"
   ],
-  "author": "king-king",
+  "author": "rain-again",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rainAgain/css-img-sprite-rain/issues"

@@ -5,6 +5,10 @@
 [[中文版]](readme-ch.md)
 [[update log]](updatelog.md)
 
+### 此版本
+
+修改了在window下生成资源时，执行命令路径与操作文件路径及生成项目路径不在同一硬盘分区的问题。其他没有改动。
+
 # Table
 1. [Install](#INSTALL)
 1. [Gulp Version](#Gulp_Version)
@@ -14,7 +18,7 @@
 
 
 # <a name="Install">Install</a>
-> npm install css-img-sprite
+> npm install css-img-sprite-rain
 
 # <a name="Gulp_Version">Gulp Version</a>
 * Gulp : [gulp-css-img-sprite](https://github.com/king-king/gulp-css-img-sprite)
